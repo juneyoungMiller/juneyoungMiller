@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am a graphic designer and web developer 👋
 
 <!--
 **juneyoungMiller/juneyoungMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
