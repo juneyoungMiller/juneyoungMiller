@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!)
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 ### Hi I am a graphic designer and web developer 👋
 
 - 🔭 I’m currently looking for the entry level position as a developer
