@@ -1,4 +1,4 @@
-https://www.canva.com/design/DAEzR7d350Q/view
+<img src="juneyong miller.png">
 
 ### Hi I am a graphic designer and web developer 👋
 
