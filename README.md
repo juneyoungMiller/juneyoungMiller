@@ -1,4 +1,4 @@
-<img src="juneyong miller.png">
+<img src="graphic designer & web developer.png">
 
 ### Hi I am a graphic designer and web developer 👋
 
