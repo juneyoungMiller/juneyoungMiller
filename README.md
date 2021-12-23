@@ -1,4 +1,4 @@
-<img src="graphic designer & web developer (1).png">
+<img src="header.png">
 
 ### Hi I am a graphic designer and web developer 👋
 
