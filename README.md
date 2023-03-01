@@ -1,4 +1,4 @@
-<img src="github-header-image.png">
+<img src="header2.png">
 
 ### Hi, I am June 👋
 
