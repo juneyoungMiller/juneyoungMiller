@@ -1,6 +1,6 @@
-<img src="header.png">
+<img src="github-header-image.png">
 
-### Hi I am a graphic designer and web developer 👋
+### Hi, I am June 👋
 
 - 🔭 I’m currently looking for the entry level position as a developer
 
